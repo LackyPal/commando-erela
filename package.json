@@ -1,0 +1,39 @@
+{
+  "name": "commando-erela",
+  "version": "1.0.0",
+  "description": "A lavalink music bot made with erela.js and discordjs-commando",
+  "main": "index.js",
+  "private": true,
+  "engines": {
+    "node": "14.x"
+  },
+  "scripts": {
+    "test": "echo \"error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l0ser8228/commando-erela.git"
+  },
+  "bugs": {
+    "url": "https://github.com/l0ser8228/commando-erela/issues"
+  },
+  "homepage": "https://github.com/l0ser8228/commando-erela#readme",
+  "author": "L0SER#8228",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "@kaname-png/erela.js-spotify": "^1.0.2",
+    "discord.js": "^12.5.3",
+    "discord.js-commando": "^0.12.3",
+    "erela.js": "^2.3.3",
+    "erela.js-deezer": "^1.0.5",
+    "erela.js-facebook": "^1.0.4",
+    "erela.js-filters": "^1.2.1",
+    "ffmpeg-static": "^4.4.0",
+    "glob": "^7.1.7",
+    "string-progressbar": "^1.0.4",
+    "sqlite": "^4.0.23",
+    "sqlite3": "^5.0.2"
+  }
+}
