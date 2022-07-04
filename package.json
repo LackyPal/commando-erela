@@ -22,7 +22,7 @@
   "author": "L0SER#8228",
   "license": "MIT",
   "dependencies": {
-    "@discordjs/opus": "^0.7.0",
+    "@discordjs/opus": "^0.8.0",
     "@kaname-png/erela.js-spotify": "^1.0.2",
     "discord.js": "^12.5.3",
     "discord.js-commando": "^0.12.3",
